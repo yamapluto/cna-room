@@ -1,0 +1,13 @@
+ohcna\PolicyHandler.class
+ohcna\AbstractEvent$1.class
+ohcna\RoomCreated.class
+ohcna\RoomDeleted.class
+ohcna\RoomRepository.class
+ohcna\Room.class
+ohcna\RoomController.class
+ohcna\RoomApplication.class
+ohcna\external\Point.class
+ohcna\external\PointService.class
+ohcna\config\kafka\KafkaProcessor.class
+ohcna\AbstractEvent.class
+ohcna\RoomChangeed.class
