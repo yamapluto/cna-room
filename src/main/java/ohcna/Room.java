@@ -33,7 +33,7 @@ public class Room {
         System.out.println("##### point onPostPersist ID: " + point.getId()+"<<<<<<<");
         System.out.println("##### point onPostPersist Status: " + point.getStatus()+"<<<<<<<");
         System.out.println("##### point onPostPersist Point: " + point.getPoint()+"<<<<<<<");
-        System.out.println("##### point onPostPersist ChangeDtm: " + point.getChangeDtm()+"<<<<<<<");
+        System.out.println("##### point onPostPersist ChangeDtm: " + point.getChangeDtm()+"<<<<<<<<");
         RoomApplication.applicationContext.getBean(ohcna.external.PointService.class)
             .pointCreate(point);
 
